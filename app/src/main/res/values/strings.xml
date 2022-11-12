@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daniweb Recycler ScrollInto</string>
+    <string name="add_first">Add First</string>
+    <string name="add_last">Add Last</string>
+</resources>
